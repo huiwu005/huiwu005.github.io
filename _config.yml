@@ -17,10 +17,10 @@ minimal: false             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   # - {file: "index.html"}
-  - {file: "index.md", title = "Index"}
-  # - {file: "README.md", title = "readme"}
-  - {url: "https://www.vumc.org/it/mac-instructions", title = "VMAC"}
-  - {file: "research.md", title = "Research"}
+  - {file: "index.md", title: Index}
+  # - {file: "README.md", title: Readme}
+  - {url: "https://www.vumc.org/it/mac-instructions", title: Vanderbilt VMAC}
+  - {file: "research.md", title: Research}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
