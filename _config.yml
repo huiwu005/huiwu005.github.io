@@ -18,9 +18,6 @@ minimal: false             # use a dark header
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   # - {file: "index.html"}
   - {file: "index.md", title: Index}
-    - {file: "projects/project1.html", title: Project 1}
-    - {file: "projects/project2.html", title: Project 2}
-    - {file: "projects/project3.html", title: Project 3}
   # - {file: "README.md", title: Readme}
   - {file: "research.md", title: Research}
   - {url: "https://www.vumc.org/it/mac-instructions", title: Vanderbilt VMAC}
