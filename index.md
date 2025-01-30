@@ -6,7 +6,7 @@ permalink: /
 
 Welcome to Hui's personal websit.
 
-## Examples
-- Item 1
-- Item 2
-- Item 3
+## Project
+- Project 1
+- Project 2
+- Project 3
